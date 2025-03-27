@@ -9,8 +9,8 @@
 /*****************************************************************************
  REQUIREMENT: Set the path to where you want to create the Excel workbook  
 *****************************************************************************/
-%let data_path = C:/Users/pestyl/OneDrive - SAS/github repos/ExcelMasterywithSAS_Workshop/data;
 
+%let data_path= /*Enter path to workshop/data folder*/;
 
 
 /******************************************************************
